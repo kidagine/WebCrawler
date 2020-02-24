@@ -1,6 +1,4 @@
-﻿using WebCrawler.UI;
-
-namespace WebCrawler
+﻿namespace WebCrawler
 {
 	class Program
 	{
